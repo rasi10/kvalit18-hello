@@ -1,6 +1,7 @@
 
 public class HelloWorld {
 	
+	
 	public void myMwethod1() {
 		System.out.println("this is a method that does not return a value!");
 	}
@@ -8,6 +9,10 @@ public class HelloWorld {
 	public int myMethod2() {
 		System.out.println("This is a method that returns something");
 		return 1;
+	}
+	
+	public void myMwethod3() {
+		System.out.println("this is a method that does not return a value!");
 	}
 	
 
